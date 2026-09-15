@@ -1,3 +1,3 @@
-resource "aws_s3_bucket" "tbdp-stage" {
+resource "aws_s3_bucket" "stage-bucket1" {
   bucket = "durga-demo-bucket"
 }
