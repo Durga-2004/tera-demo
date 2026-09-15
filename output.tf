@@ -1,6 +1,6 @@
 output "bucket_name" {
 
-  value = aws_s3_bucket.tbdp-ing.bucket
+  value = aws_s3_bucket.tbdp-stage.bucket
 
 }
  
